@@ -19,6 +19,13 @@ This research could be improved for the future by inviting stakeholder perspecti
 ### anything you find from the map or data that is different from your expectation before the exercise, or anything that stands out to you (5 PTS)
 Something that stood out to me was the word "future", as city's and planners are always looking forward in terms of urban development and anticipating what lies ahead. With the combination of "new" and "urbanism" emphasizes the transformative nature to city planning.
 
+[first csv](https://github.com/mykenzieh03/GEOG458_Lab2/blob/f7477b10a652c9b7a0a89f11d1f71a6ef45d0a86/search-result-1.csv)
+
+[second csv](https://github.com/mykenzieh03/GEOG458_Lab2/blob/f7477b10a652c9b7a0a89f11d1f71a6ef45d0a86/search-result-2.csv)
+
+[third csv](https://github.com/mykenzieh03/GEOG458_Lab2/blob/f7477b10a652c9b7a0a89f11d1f71a6ef45d0a86/search-result-3.csv)
+
+
 ![](https://github.com/mykenzieh03/GEOG458_Lab2/blob/main/wordcloud1.png?raw=true)
 
 ![](https://github.com/mykenzieh03/GEOG458_Lab2/blob/main/wordcloud2.png?raw=true)
